@@ -11,5 +11,5 @@
 <a href="https://www.hackerrank.com/profile/praveenkeshavan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www.hackerrank.com/profile/praveenkeshavan1" height="30" width="40" /></a>
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/pk7007?theme=dark&font=Kantumruy&ext=activity)
+
 
